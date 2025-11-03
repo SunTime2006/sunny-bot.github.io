@@ -1,10 +1,14 @@
-.fab fa-accessible-icon
-h5{
-    text-align: right;
+h5 {
+  text-align: center;
+  color: #333;
 }
 
-input[type="card"]{
-    width: 150px;
-    margin-bottom: 10px;
-    text-align: left;
+.card {
+  border-radius: 1rem;
 }
+
+.btn img {
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
