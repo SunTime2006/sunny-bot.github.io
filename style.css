@@ -1,6 +1,15 @@
+body {
+  background: linear-gradient(135deg, #26ff00, #61ff52) !important;
+  background-color: #32cd32;
+  min-height: 100vh;
+  padding-top: 20px;
+  margin: 0;
+  padding: 0;
+}
+
 h5 {
   text-align: center;
-  color: #333;
+  color: #04ff00;
 }
 
 .card {
@@ -11,4 +20,3 @@ h5 {
   margin-right: 5px;
   vertical-align: middle;
 }
-
