@@ -1,2 +1,2 @@
 # sunny-bot.github.io
-La web oficial de Sunny Bot
+El sitio web oficial del Sunny Bot
